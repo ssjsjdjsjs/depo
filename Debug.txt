@@ -1,0 +1,21 @@
+
+--- YENI ISTEK: 2026-05-14 16:10:08 ---
+Istek Yapan IP: 127.0.0.1
+Istek Atilan URL: http://127.0.0.1:5008/like?uid=12345678&sayi=1
+Hedef UID: 12345678, Istenen Deger: 1
+Yuklenen Toplam Token Sayisi: 18
+Isleme Hazir Token Sayisi: 18
+Hedef Oyuncu: FB:ㅤ@GMRemyX (UID: 12345678), Oncesi Begeni: 3862697
+Gonderilen Toplam API Istegi: 1
+Basarili Istekler (HTTP 200 OK): 1
+Hatali Istekler (HTTP 400 Bad Request): 0
+Diger Hatalar (Timeout, Connection vb.): 0
+Hesap Kullanim Durumlari (Bu Islemde +1 Eklenenler):
+  - Hesap 11873635980: +1 kez kullanildi. (Toplam kullanim: 1/30)
+dolap_state.json Dosyasi Basariyla Guncellendi mi?: Hayir
+Zaman Asimindaki (Cooldown Suresi Gelen) Hesaplar:
+  - Su an bekleme suresinde (cooldown) hesap bulunmamaktadir.
+Islem Oncesi Begeni Sayisi: 3862697
+Islem Sonrasi Begeni Sayisi: 3862697
+API Uzerinden Gelen Guncel Begeni Sayisi: 0
+============================================================
