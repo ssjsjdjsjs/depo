@@ -4043,3 +4043,53 @@ Islem Oncesi Begeni Sayisi: 19850
 Islem Sonrasi Begeni Sayisi: 19850
 API Uzerinden Gelen Guncel Begeni Sayisi: 0
 ============================================================
+
+--- YENI ISTEK: 2026-05-14 15:48:35 ---
+Istek Yapan IP: 66.249.93.171
+Istek Atilan URL: https://sentez-like.vercel.app/like?uid=147521684&sayi=30
+Hedef UID: 147521684, Istenen Deger: 30
+Yuklenen Toplam Token Sayisi: 1328
+Isleme Hazir Token Sayisi: 1328
+Hedef Oyuncu: +1LIKEㅤ (UID: 147521684), Oncesi Begeni: 19850
+Gonderilen Toplam API Istegi: 30
+Basarili Istekler (HTTP 200 OK): 30
+Hatali Istekler (HTTP 400 Bad Request): 0
+Diger Hatalar (Timeout, Connection vb.): 0
+Hesap Kullanim Durumlari (Bu Islemde +1 Eklenenler):
+  - Hesap 11444378666: +1 kez kullanildi. (Toplam kullanim: 11/30)
+  - Hesap 13665016666: +1 kez kullanildi. (Toplam kullanim: 6/30)
+  - Hesap 14516136793: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 15610269084: +1 kez kullanildi. (Toplam kullanim: 3/30)
+  - Hesap 13665018134: +1 kez kullanildi. (Toplam kullanim: 11/30)
+  - Hesap 13665018846: +1 kez kullanildi. (Toplam kullanim: 7/30)
+  - Hesap 11799707950: +1 kez kullanildi. (Toplam kullanim: 6/30)
+  - Hesap 14516770455: +1 kez kullanildi. (Toplam kullanim: 8/30)
+  - Hesap 14516173452: +1 kez kullanildi. (Toplam kullanim: 10/30)
+  - Hesap 14516701293: +1 kez kullanildi. (Toplam kullanim: 5/30)
+  - Hesap 14517698415: +1 kez kullanildi. (Toplam kullanim: 3/30)
+  - Hesap 14515409806: +1 kez kullanildi. (Toplam kullanim: 6/30)
+  - Hesap 15057801212: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 14517803307: +1 kez kullanildi. (Toplam kullanim: 8/30)
+  - Hesap 11806976536: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 14515807263: +1 kez kullanildi. (Toplam kullanim: 7/30)
+  - Hesap 13665017804: +1 kez kullanildi. (Toplam kullanim: 6/30)
+  - Hesap 14515393845: +1 kez kullanildi. (Toplam kullanim: 11/30)
+  - Hesap 13665017522: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 13665014169: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 11873632478: +1 kez kullanildi. (Toplam kullanim: 11/30)
+  - Hesap 11444272565: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 13665017008: +1 kez kullanildi. (Toplam kullanim: 12/30)
+  - Hesap 11803658197: +1 kez kullanildi. (Toplam kullanim: 8/30)
+  - Hesap 14510643761: +1 kez kullanildi. (Toplam kullanim: 13/30)
+  - Hesap 13665015818: +1 kez kullanildi. (Toplam kullanim: 6/30)
+  - Hesap 11806438400: +1 kez kullanildi. (Toplam kullanim: 6/30)
+  - Hesap 11663067873: +1 kez kullanildi. (Toplam kullanim: 9/30)
+  - Hesap 14515374935: +1 kez kullanildi. (Toplam kullanim: 8/30)
+  - Hesap 14510631352: +1 kez kullanildi. (Toplam kullanim: 8/30)
+dolap_state.json Dosyasi Basariyla Guncellendi mi?: Evet
+Zaman Asimindaki (Cooldown Suresi Gelen) Hesaplar:
+  - Su an bekleme suresinde (cooldown) hesap bulunmamaktadir.
+Islem Oncesi Begeni Sayisi: 19850
+Islem Sonrasi Begeni Sayisi: 19850
+API Uzerinden Gelen Guncel Begeni Sayisi: 0
+============================================================
