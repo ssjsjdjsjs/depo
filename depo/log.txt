@@ -1,0 +1,1 @@
+İstek Geldi! İstek atan IP: 88.244.170.191, Parametreler: ImmutableMultiDict([('uid', '346922325'), ('sayi', '210')])
