@@ -9,3 +9,4 @@
 İstek Geldi! İstek atan IP: 88.244.170.191, Parametreler: ImmutableMultiDict([('uid', '362764173'), ('sayi', '210')])
 İstek Geldi! İstek atan IP: 88.244.170.191, Parametreler: ImmutableMultiDict([('uid', '724778432'), ('sayi', '210')])
 İstek Geldi! İstek atan IP: 88.244.170.191, Parametreler: ImmutableMultiDict([('uid', '1124994693'), ('sayi', '210')])
+İstek Geldi! İstek atan IP: 88.244.170.191, Parametreler: ImmutableMultiDict([('uid', '8855625735'), ('sayi', '210')])
